@@ -1,6 +1,8 @@
 ### Anish Patel 
 
-###### I recently completed my bachlor in Computer Engineering. Currently i am in studing about Web Development in Humber College. 
+###### I recently completed my bachlor in Computer Engineering. Currently i am studing about Web Development in Humber College. 
+
+
 
 <!--
 **anish9243/anish9243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
