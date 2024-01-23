@@ -4,9 +4,10 @@
 
 ## Anish Patel 
 
-### I recently completed my bachlor in Computer Engineering. Currently i am studing about Web Development in Humber College,Toronto,Canada.
+I recently completed my bachlor in Computer Engineering. Currently i am studying about Web Development in Humber College,Toronto,Canada.
 
-I’m currently learning How to Code in HTML , JAVA , CSS and Other Language.
+I’m currently learning How to Code in HTML , JAVA , CSS , PYTHON and Other Language.
+
 
 
 
