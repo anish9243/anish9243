@@ -8,7 +8,7 @@ I recently completed my bachlor in Computer Engineering. Currently i am studying
 
 I know how to code in HTML , JAVA , CSS , PYTHON and Other Language.
 
-Wants to know more about me :-
+These are my social media handles you can follow mw there and feel free to contact me 
 <div id="badges">
   <a href="https://www.linkedin.com/in/anish1507/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://www.instagram.com/_im_anish__007/"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=purple" alt="Instagram Badge"/></a>
