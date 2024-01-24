@@ -6,7 +6,14 @@
 
 I recently completed my bachlor in Computer Engineering. Currently i am studying about Web Development in Humber College,Toronto,Canada.
 
-I’m currently learning How to Code in HTML , JAVA , CSS , PYTHON and Other Language.
+I know how to code in HTML , JAVA , CSS , PYTHON and Other Language.
+
+Wants to know more about me :-
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=purple" alt="Instagram Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
 
 
 
