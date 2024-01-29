@@ -12,7 +12,7 @@ Wants to know about me contact me :-
 <div id="badges">
   <a href="https://www.linkedin.com/in/anish1507/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://www.instagram.com/_im_anish__007/"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=purple" alt="Instagram Badge"/></a>
-  <a href="https://twitter.com/ANSpa2707"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/></a>
+  <a href="https://twitter.com/ANSpa2707"><img src="https://img.shields.io/badge/X-white?style=for-the-badge&logo=x&logoColor=black" alt="X Badge"/></a>
 
 Feel Free to Contact.   
 
