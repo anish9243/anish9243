@@ -4,11 +4,11 @@
 
 ## Anish Patel 
 
-I recently completed my bachlor in Computer Engineering. Currently i am studying about Web Development in Humber College, Toronto, Canada.
+I recently completed my bachelor's in Computer Engineering. Currently, I am studying Web Development at Humber College, Toronto, Canada.
 
-I know how to code in HTML , JAVA , CSS , PYTHON and Other Language.
+I know how to code in HTML, JAVA, CSS, PYTHON, and Other Languages.
 
-Wants to know about me contact me :- 
+Wants to know about me contact me:- 
 <div id="badges">
   <a href="https://www.linkedin.com/in/anish1507/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://www.instagram.com/_im_anish__007/"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=purple" alt="Instagram Badge"/></a>
