@@ -4,7 +4,7 @@
 
 ## Anish Patel 
 
-I recently completed my bachlor in Computer Engineering. Currently i am studying about Web Development in Humber College, Toronto, Canada.
+Eager and adaptable web developer, adept in HTML, CSS, JavaScript, and Python. Armed with a comprehensive understanding of frameworks like React and Angular, and proficient in database management with MongoDB and MySQL. Seeking opportunities to apply my skills and passion for web development to drive impactful projects, while continuously expanding my knowledge in a collaborative and dynamic environment.
 
 I know how to code in HTML , JAVA , CSS , PYTHON and Other Language.
 
