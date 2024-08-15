@@ -6,8 +6,6 @@
 
 Eager and adaptable web developer, adept in HTML, CSS, JavaScript, and Python. Armed with a comprehensive understanding of frameworks like React and Angular, and proficient in database management with MongoDB and MySQL. Seeking opportunities to apply my skills and passion for web development to drive impactful projects, while continuously expanding my knowledge in a collaborative and dynamic environment.
 
-I know how to code in HTML , JAVA , CSS , PYTHON and Other Language.
-
 Wants to know about me contact me :- 
 <div id="badges">
   <a href="https://www.linkedin.com/in/anish1507/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
